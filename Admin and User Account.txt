@@ -1,0 +1,34 @@
+Admin
+
+Username: admin
+Password: Admin1234
+
+Username: ngoh
+Password: Abcd1234
+	
+Username: gan
+Password: Abcd1234
+	
+Username: khadijah
+Password: Abcd1234
+	
+Username: ng
+Password: Abcd1234
+
+User
+
+Username: user
+Password: User1234
+
+Username: ngoh
+Password: Abcd1234
+	
+Username: gan
+Password: Abcd1234
+	
+Username: khadijah
+Password: Abcd1234
+	
+Username: ng
+Password: Abcd1234
+

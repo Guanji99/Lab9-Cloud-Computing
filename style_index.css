@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(230, 255, 215);
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.member_list{
+    list-style: none;
+}
+
+table {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 130px;
+}
+
+table tr td{
+    border: solid 1px;
+    padding: 30px 55px;
+}
+
+a{
+    color: black;
+}
